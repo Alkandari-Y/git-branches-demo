@@ -6,5 +6,6 @@
 
 ## Trainees
 
-- <name>: <github_account>
+- <Ebrahimm>: <EbrahimAlenezi>
 - Bashaier: bkmushaileh
+
