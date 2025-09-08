@@ -6,4 +6,4 @@
 
 ## Trainees
 
-- <name>: shaikha <github_account> jello2025
+- shaikha: jello2025
