@@ -4,4 +4,4 @@
 - Yousef Alkandari: Alkandari-Y
 
 ## Trainees
-- <name>: <github_account>
+- <hisa>: <hisaalq>
