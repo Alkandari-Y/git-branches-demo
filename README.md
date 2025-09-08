@@ -8,6 +8,12 @@
 ## Trainees
 
 
+- <name>: <github_account>
+
+  -Sheikha Alenezi : SheikhaAlenezi
+
+
+
 
 - <name>: <github_account>
 -Sheikha Alenezi : SheikhaAlenezi
