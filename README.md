@@ -6,6 +6,11 @@
 
 ## Trainees
 
+
+- <name>: <github_account>
+  Sheikha Alenezi : SheikhaAlenezi
+
 - Abdullah Alrashidi: buayyad
 - <Ebrahimm>: <EbrahimAlenezi>
 - Bashaier: bkmushaileh
+
