@@ -7,3 +7,5 @@
 ## Trainees
 
 - <Ebrahimm>: <EbrahimAlenezi>
+- Bashaier: bkmushaileh
+
