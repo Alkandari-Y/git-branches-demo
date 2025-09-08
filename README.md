@@ -11,9 +11,11 @@
 
   -Sheikha Alenezi : SheikhaAlenezi
 
-- <name>: shaikha <github_account>
-  -Sheikha Alenezi : SheikhaAlenezi
-  -Nawaf alenezi : nqgsi
+- <name>: <git-username>
+hisa : hisaalq
+-Sheikha Alenezi : SheikhaAlenezi
+-Nawaf alenezi : nqgsi
+-Nawaf alenezi : nqgsi
 - Abdullah Alrashidi: buayyad
 - Ebrahimm: EbrahimAlenezi
 - Bashaier: bkmushaileh
