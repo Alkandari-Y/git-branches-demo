@@ -9,7 +9,8 @@
 
 
 
-- <name>: <github_account>
+- <name>: <git-username>
+hisa : hisaalq
 -Sheikha Alenezi : SheikhaAlenezi
 -Nawaf alenezi : nqgsi
 - Abdullah Alrashidi: buayyad
