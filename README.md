@@ -3,14 +3,17 @@
 ## Instructor
 
 - Yousef Alkandari: Alkandari-Y
+- Nawaf alenezi : nqgsi
 
 ## Trainees
 
 
-- <name>: <github_account>
-  Sheikha Alenezi : SheikhaAlenezi
 
+- <name>: <github_account>
+-Sheikha Alenezi : SheikhaAlenezi
+-Nawaf alenezi : nqgsi
 - Abdullah Alrashidi: buayyad
-- <Ebrahimm>: <EbrahimAlenezi>
+- Ebrahimm: EbrahimAlenezi
 - Bashaier: bkmushaileh
+
 
