@@ -3,8 +3,8 @@
 ## Instructor
 
 - Yousef Alkandari: Alkandari-Y
-- Nawaf alenezi : nqgsi
 
 ## Trainees
 
 - <name>: <github_account>
+- Nawaf alenezi : nqgsi
