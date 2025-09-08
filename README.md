@@ -5,10 +5,11 @@
 - Yousef Alkandari: Alkandari-Y
 
 ## Trainees
-
-- <name>: <github_account>
 - Sheikha Alenezi : SheikhaAlenezi
 - Nawaf alenezi : nqgsi
 - Abdullah Alrashidi: buayyad
 - Ebrahimm: EbrahimAlenezi
 - Bashaier: bkmushailehadd
+- hisa : hisaalq
+- jello2025
+
