@@ -3,7 +3,19 @@
 ## Instructor
 
 - Yousef Alkandari: Alkandari-Y
+- Nawaf alenezi : nqgsi
 
 ## Trainees
 
-- <name>: shaikha <github_account> jello2025
+- <name>: <github_account>
+
+  -Sheikha Alenezi : SheikhaAlenezi
+
+- <name>: shaikha <github_account>
+  -Sheikha Alenezi : SheikhaAlenezi
+  -Nawaf alenezi : nqgsi
+- Abdullah Alrashidi: buayyad
+- Ebrahimm: EbrahimAlenezi
+- Bashaier: bkmushaileh
+
+jello2025
