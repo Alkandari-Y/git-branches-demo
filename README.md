@@ -1,7 +1,7 @@
 # FS July 2025
 
 ## Instructor
-- <name>: <github_account>
+- Yousef Alkandari: Alkandari-Y
 
 ## Trainees
 - <name>: <github_account>
