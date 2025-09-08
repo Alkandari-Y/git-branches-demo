@@ -3,13 +3,6 @@
 ## Instructor
 - Yousef Alkandari: Alkandari-Y
 
-
-
-
-
-
-
-
-
 ## Trainees
-- <hisa>: <hisaalq>
+- <name>: <git-username>
+hisa : hisaalq
